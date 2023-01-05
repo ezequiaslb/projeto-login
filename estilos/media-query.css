@@ -22,6 +22,7 @@ Extra large devices (large laptops and desktops, 1200px and up)
     }
     section#login{
         width: 80vw;
+        height: 350px;
     }
     section#login > div#imagem{
         float: left;
@@ -48,6 +49,7 @@ Extra large devices (large laptops and desktops, 1200px and up)
 
     section#login{
         width: 950px;
+        height: 400px;
     }
     section#login > div#imagem{
         float: right;
